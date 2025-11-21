@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# No versionar pesos entrenados; se subirán solo como asset de release
+model/*.h5
+
+
