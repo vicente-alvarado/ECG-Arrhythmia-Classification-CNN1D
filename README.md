@@ -19,6 +19,7 @@ El modelo entrenado (`CNN_ECG_model.h5`) se distribuye como **asset de una Relea
 
 ### Opción 1:
 ### 1. Montar la carpeta drive de Google Colab
+```python
 from google.colab import drive
 drive.mount('/content/drive')
 
